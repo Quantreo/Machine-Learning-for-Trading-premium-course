@@ -1,6 +1,8 @@
 # Machine-Learning-for-Trading-premium-course
+This course is designed to take you from understanding the basics of data-driven trading to mastering the tools and techniques needed to build robust trading strategies. Whether you’re a beginner or looking to deepen your expertise, you’ll gain practical knowledge and hands-on experience in creating signals, designing targets, and evaluating models.
+By combining theory with practice, this course will equip you with the skills to turn raw data into actionable insights and profitable trading strategies
 
-
+![](IMAGES/presentation_picture.png)
 
 ### What will you be able to do after this course?
 After completing this course, you will gain essential skills and knowledge to excel in financial machine learning and trading strategy development. Here’s what you’ll be able to do:
