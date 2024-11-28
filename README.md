@@ -1,1 +1,1 @@
-# Machine-Learning-for-Trading-premium-course-
+# Machine-Learning-for-Trading-premium-course
