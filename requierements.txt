@@ -4,3 +4,4 @@ numpy==1.24.2
 pandas==1.5.3
 hurst==0.0.5
 shap==0.46.0
+fastparquet==2024.11.0
